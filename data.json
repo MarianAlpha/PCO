@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "name": "Proyecto A",
+            "id": 1,
+            "tasks": [
+                "Implementar vista de login",
+                "Implementar vista de tareas",
+                "Implementar vista de Actividades"
+            ],
+            "activities": [
+                {
+                    "date": "2025-03-18",
+                    "description": "Se crearon los endpoints para la app"
+                }
+            ]
+        }
+    ]
+}
